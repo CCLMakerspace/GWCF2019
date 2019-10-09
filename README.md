@@ -1,2 +1,2 @@
-# GWCF2019.github.io
+# GWCF2019
 Girls Who Code Fall 2019
