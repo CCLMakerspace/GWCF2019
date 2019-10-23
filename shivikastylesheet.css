@@ -1,0 +1,59 @@
+html, body {
+  height: 100%;
+  margin: 10px;
+  text-align: left;
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 15px;
+  overflow: hidden;
+  position: relative;
+  width: 45%;
+  border: 5px solid #e7e7e7;
+  background-color: black;
+  float: right;
+}
+
+li {
+  float: left;
+  display: inline;
+}
+
+li a {
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: blue;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+.title {
+  font-family: "Times New Roman", Times, serif;
+  margin-top: -30px;
+}
+
+h1.serif {
+  color: SlateBlue;
+}
+
+p.print {
+  font-family: "Calibri", print;
+}
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  text-decoration: underline;
+}
